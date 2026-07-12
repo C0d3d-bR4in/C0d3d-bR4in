@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/660099/FFFFFF?text=Sakibul+Islam+Sheikh" alt="Banner" width="1000" />
+  <img src="https://via.placeholder.com/1000x250/660099/FFFFFF?text=Sakibul+Islam+Sheikh](https://sakibul.ami.bd/Sakibul-islam-sheikh.svg" alt="Banner" width="1000" />
 </p>
 
 <h1 align="center">
@@ -10,6 +10,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C0d3d-bR4in&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://sakibul.ami.bd/">
+    <img src="https://img.shields.io/badge/Portfolio-sakibul.ami.bd-blueviolet?style=flat-square" alt="Portfolio" />
+  </a>
   <a href="mailto:mail2sakibul@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
@@ -20,11 +23,11 @@
 
 ### 👨‍💻 About Me
 
-> *"Visitors form an opinion about your website in just 0.05 seconds."* — That's why I obsess over every detail.
+> *"Code is just the foundation; I architect secure and scalable digital futures."*
 
-I'm a **Full-Stack Developer** from **Dhaka, Bangladesh**, passionate about building high-performance, scalable web platforms and mobile applications that create real business impact. 
+I'm a **Full-Stack Developer and Security Researcher** from **Savar, Dhaka, Bangladesh**, passionate about building high-performance, scalable web platforms and mobile applications that create real business impact. 
 
-* 🔭 Currently working on a **grocery selling app & website** and an e-commerce gadget selling mobile app integrated with WooCommerce.
+* 🔭 Currently working on a **Grocery selling app & website** and an E-commerce gadget selling mobile app integrated with WooCommerce.
 * 🌱 Deep-diving into **Next.js, Node.js, Express, PostgreSQL, MongoDB, Wordpress, MySQL and Docker**.
 * 📱 Exploring cross-platform mobile app development with **Flutter**.
 * 🎓 I am a proud alumnus of the Department of CSE Manarat International University (MIU).
@@ -58,8 +61,8 @@ I'm a **Full-Stack Developer** from **Dhaka, Bangladesh**, passionate about buil
 
 ---
 
-### 🚀 What I'm Up To
+### 🔬 Research & Datasets
 
-* 🔨 Building a crowdsourced, hyper-local offline utility and discovery web platform.
-* 📦 Exploring containerized deployments using **Docker** for production.
-* 📱 Optimizing Meta advertising campaigns for digital promotions.
+* 🔐 **Decentralized Identity Verification**: Co-authored research on securing digital services and identity management using decentralized frameworks, focusing on smart contracts on EVM-compatible chains and IPFS to safely store encrypted identity documents.
+* 🛸 **Aerial Object Detection**: Developed a comprehensive dataset (**UAV_SMID**) featuring 13,928 aerial images to advance unmanned aerial vehicle (UAV) sky monitoring and airspace security.
+* 🌐 **Cybersecurity & Blockchain**: Researching the intersection of cryptography, blockchain, and network security to develop robust architectures for protecting sensitive digital data.
