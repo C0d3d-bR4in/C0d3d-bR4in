@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/660099/FFFFFF?text=Sakibul+Islam+Sheikh](https://sakibul.ami.bd/Sakibul-islam-sheikh.svg" alt="Banner" width="1000" />
+  <img src="https://sakibul.ami.bd/Sakibul-islam-sheikh.svg" alt="Banner" width="1000" />
 </p>
 
 <h1 align="center">
